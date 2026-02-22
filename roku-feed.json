@@ -1,0 +1,17 @@
+{
+  "providerName": "Stitched",
+  "lastUpdated": "2026-02-21T00:00:00Z",
+  "language": "en",
+  "shortFormVideos": [
+    {
+      "id": "vod:2700499348",
+      "title": "Twitch Test VOD",
+      "content": {
+        "dateAdded": "2026-02-20T00:00:00Z",
+        "duration": 7200
+      },
+      "thumbnail": "https://static-cdn.jtvnw.net/ttv-static/404_preview-320x180.jpg",
+      "genres": ["Gaming"]
+    }
+  ]
+}
